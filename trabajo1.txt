@@ -3,3 +3,5 @@ Chile
 Brasil
 Mexico
 Cuba
+EEUU
+Peru
